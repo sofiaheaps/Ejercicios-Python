@@ -2,6 +2,7 @@
 
 <h4> Definir una función que devuelva la suma de los dos números que se pasan como parámetro.</h4>
 
+<br>
 
 Definimos una función con el nombre **suma_1**, y establecemos 2 parámetros **(num1, num2)**. <p>
 - `def suma_1(num1,num2):`

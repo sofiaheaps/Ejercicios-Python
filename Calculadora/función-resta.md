@@ -16,4 +16,4 @@ Finlmente imprimimos el resultado.
 - `print(resultado)`
 <br>
 
-<img src="src/rest.png" alt="rest" width="220" /> <p>
+

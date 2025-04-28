@@ -3,14 +3,14 @@
 <h4> Definir una función que devuelva la suma de los dos números que se pasan como parámetro.</h4>
 
 
-Definimos una función con el nombre **suma_1**, y establecemos 2 parámetros **(a, b)**. <p>
-- `def suma_1(a, b):`
+Definimos una función con el nombre **suma_1**, y establecemos 2 parámetros **(num1, num2)**. <p>
+- `def suma_1(num1,num2):`
 
-Realizamos la suma de `a` + `b`. La palabra return significa que devolvemos el resultado, no solo lo calculamos, sino que además lo entregamos al programa para que pueda usarlo más adelante. <p>
-- `return a + b`
+Realizamos la suma de `num1` + `num2`. La palabra return significa que devolvemos el resultado, no solo lo calculamos, sino que además lo entregamos al programa para que pueda usarlo más adelante. <p>
+- `return num1 + num2`
 
-Llamamos (usamos) la función suma con los números 5 y 3. Pasamos el número 5 como a y el número 3 como b. La función suma 5 + 3, lo que da 8, y devuelve ese resultado. El número 8 se guarda en la variable resultado. <p>
-- `resultado = suma_1(5, 3)`
+Llamamos (usamos) la función suma con los números 2 y 3. Pasamos el número 5 como num1 y el número 3 como num2. La función suma 2 + 3, lo que da 5, y devuelve ese resultado. El número 5 se guarda en la variable resultado. <p>
+- `resultado = suma_1(2, 3)`
 
 Finlmente imprimimos el resultado.
 - `print(resultado)`

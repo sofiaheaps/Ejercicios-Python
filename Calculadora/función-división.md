@@ -16,3 +16,5 @@ Llamamos a la función **división_1** con los números **8** y **2**. Pasamos e
 Finalmente imprimimos el resultado.
 - `print(resultado)`
 <br>
+
+ <img src="src/división.png" alt="div" width="260" /> <p>

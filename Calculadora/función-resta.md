@@ -2,6 +2,7 @@
 
 <h4> Definir una función que devuelva la resta de los dos números que se pasan como parámetro.</h4>
 
+<br>
 
 Definimos una función con el nombre **resta_1**, y establecemos 2 parámetros **(num3, num4)**. <p>
 - `def resta_1(num3, num4):`

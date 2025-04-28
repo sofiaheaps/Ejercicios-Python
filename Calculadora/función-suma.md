@@ -12,7 +12,7 @@ Realizamos la suma de `num1` + `num2`. La palabra return significa que devolvemo
 Llamamos a la función suma con los números 2 y 3. Pasamos el número 2 como num1 y el número 3 como num2. La función suma 2 + 3, lo que da 5, y devuelve ese resultado. El número 5 se guarda en la variable resultado. <p>
 - `resultado = suma_1(2, 3)`
 
-Finlmente imprimimos el resultado.
+Finalmente imprimimos el resultado.
 - `print(resultado)`
 <br>
 

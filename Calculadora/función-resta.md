@@ -17,3 +17,4 @@ Finlmente imprimimos el resultado.
 <br>
 
 
+<img src="src/res.png" alt="res" width="220" /> <p>

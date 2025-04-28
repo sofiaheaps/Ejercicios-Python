@@ -9,7 +9,7 @@ Definimos una función con el nombre **suma_1**, y establecemos 2 parámetros **
 Realizamos la suma de `num1` + `num2`. La palabra return significa que devolvemos el resultado, no solo lo calculamos, sino que además lo entregamos al programa para que pueda usarlo más adelante. <p>
 - `return num1 + num2`
 
-Llamamos (usamos) la función suma con los números 2 y 3. Pasamos el número 2 como num1 y el número 3 como num2. La función suma 2 + 3, lo que da 5, y devuelve ese resultado. El número 5 se guarda en la variable resultado. <p>
+Llamamos a la función suma con los números 2 y 3. Pasamos el número 2 como num1 y el número 3 como num2. La función suma 2 + 3, lo que da 5, y devuelve ese resultado. El número 5 se guarda en la variable resultado. <p>
 - `resultado = suma_1(2, 3)`
 
 Finlmente imprimimos el resultado.
